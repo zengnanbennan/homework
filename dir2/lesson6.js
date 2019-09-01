@@ -1,1 +1,0 @@
-document.write('I.m Mr.zeng');
